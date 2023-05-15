@@ -8,6 +8,9 @@ This is a "Snake Water Gun" game built using Bootstrap and JavaScript. The game 
 4. Increases the computer's score by one if it wins.
 5. Provides the option to reset the scores during the game.
 
+## Screenshot
+![image](https://github.com/ankitjha2023/snake-water-gun/assets/127032700/577ad59c-6c5f-4d76-9740-6e57235eb024)
+
 ## Technologies Used
 Bootstrap, javascript
 
